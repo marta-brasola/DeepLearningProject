@@ -19,3 +19,9 @@ LSTM with Abstract and Title
 CNN
 
 CNN with TF-IDF representation 
+
+## Authors
+
+- Filippo Algeri
+- Marta Brasola
+- Maurizio Papa 
