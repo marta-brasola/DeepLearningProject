@@ -1,10 +1,7 @@
 # DeepLearningProject
 
 ## Research Question 
-- mettere research question
-- data
-- preprocessing (magari mettere qualche grafico riguardo il dataset)
-- models and results
+
   
 ## Data 
 
